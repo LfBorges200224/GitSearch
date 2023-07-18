@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>Git Search</title>
-</head>
+<html></html>
 <body>
   <h1>Git Search</h1>
 
