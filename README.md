@@ -29,7 +29,7 @@
 
   <h3>Página inicial:</h3>
   <ul>
-    <li>Buscar os dados da API do GitHub com base no valor (value) do campo de busca da página inicial. Para isso, utilizaremos o endpoint: <a href="https://api.github.com/users/{value}">https://api.github.com/users/{value}</a></li>
+    <li>Buscar os dados da API do GitHub com base no valor (value) do campo de busca da página inicial. Para isso, utilizaremos o endpoint: <p>https://api.github.com/users/{value}</p></li>
     <li>Caso o usuário não seja encontrado, redirecione a aplicação para uma página com a mensagem "Ooops! Não encontramos o usuário que você procurou, vamos tentar novamente."</li>
     <li>O botão "Nova Busca" deve redirecionar o usuário para a página inicial.</li>
   </ul>
@@ -46,19 +46,6 @@
       <li>Link do repositório</li>
     </ul>
   </ul>
-
-  <h2>Como começar</h2>
-  <ol>
-    <li>Faça o download do código base para a entrega: <a href="https://github.com/seu-usuario/seu-repositorio">Acesse o repositório</a></li>
-    <li>Realize as configurações necessárias para executar a aplicação</li>
-    <li>Execute a aplicação e comece a buscar desenvolvedores no GitHub</li>
-  </ol>
-
-  <h2>Contribuições</h2>
-  <p>Contribuições são bem-vindas! Se você deseja contribuir com melhorias, correções de bugs ou novas funcionalidades, fique à vontade para enviar um pull request.</p>
-
-  <h2>Licença</h2>
-  <p>Este projeto está licenciado sob a <a href="link-para-licenca">Licença XYZ</a>.</p>
 </body>
 </html>
 
