@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    max-width: 100vw;
+    font-family: 'inter';
+    user-select: none;
+    color: var(--color-grey-7);
+    background: var(--color-grey-2);
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
